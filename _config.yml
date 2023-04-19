@@ -24,8 +24,10 @@ navigation:
     url: 
   - name: 关于我
     url: /about me
-  - name: 文章列表
-    url: /list
+  - name: 关于物理
+    url: /physics
+  - name: 关于人生
+    url: /life
 
 
 # Pagination
