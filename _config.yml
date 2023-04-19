@@ -23,7 +23,7 @@ navigation:
   - name: 首页
     url: 
   - name: 关于我
-    url: /about me
+    url: /aboutme
   - name: 关于物理
     url: /physics
   - name: 关于人生
