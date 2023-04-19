@@ -2,7 +2,7 @@
 layout: post
 title: "4.19日记"
 date:   2023-04-18
-tags: [life]
+tags: #[life]
 author: Hyat
 ---
 尝试一下写作吧～
