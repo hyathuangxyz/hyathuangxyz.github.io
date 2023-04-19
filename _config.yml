@@ -21,7 +21,7 @@ favicon: https://raw.githubusercontent.com/hyathuangxyz/hyathuangxyz.github.io/m
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
   - name: 首页
-    url: 
+    url: /
   - name: 关于我
     url: /aboutme
   - name: 关于物理
